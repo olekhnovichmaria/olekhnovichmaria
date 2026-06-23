@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\TaskManager\TaskManager.WinForms\bin\Debug\TaskManager.WinForms.exe.config
+C:\Users\user\source\repos\TaskManager\TaskManager.WinForms\bin\Debug\TaskManager.WinForms.exe
+C:\Users\user\source\repos\TaskManager\TaskManager.WinForms\bin\Debug\TaskManager.WinForms.pdb
+C:\Users\user\source\repos\TaskManager\TaskManager.WinForms\bin\Debug\TaskManager.Core.dll
+C:\Users\user\source\repos\TaskManager\TaskManager.WinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\TaskManager\TaskManager.WinForms\bin\Debug\TaskManager.Core.pdb
+C:\Users\user\source\repos\TaskManager\TaskManager.WinForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\TaskManager\TaskManager.WinForms\obj\Debug\TaskManager.WinForms.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TaskManager\TaskManager.WinForms\obj\Debug\TaskManager.WinForms.Form1.resources
+C:\Users\user\source\repos\TaskManager\TaskManager.WinForms\obj\Debug\TaskManager.WinForms.Properties.Resources.resources
+C:\Users\user\source\repos\TaskManager\TaskManager.WinForms\obj\Debug\TaskManager.WinForms.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TaskManager\TaskManager.WinForms\obj\Debug\TaskManager.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TaskManager\TaskManager.WinForms\obj\Debug\TaskMana.94380C39.Up2Date
+C:\Users\user\source\repos\TaskManager\TaskManager.WinForms\obj\Debug\TaskManager.WinForms.exe
+C:\Users\user\source\repos\TaskManager\TaskManager.WinForms\obj\Debug\TaskManager.WinForms.pdb
+C:\Users\user\source\repos\TaskManager\TaskManager.WinForms\obj\Debug\TaskManager.WinForms.exe.config

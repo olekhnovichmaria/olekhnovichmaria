@@ -1,0 +1,35 @@
+[
+  {
+    "Id": "c138bea5-f0c8-44e9-80ae-0e4b12a39d50",
+    "Title": "уроки",
+    "Description": "сдеать доманее задание по математике и русскому языку",
+    "Priority": 1,
+    "DueDate": "2026-06-26T01:57:59",
+    "Status": 2,
+    "IsImportant": false,
+    "CreatedAt": "2026-06-24T01:58:31.51524+05:00",
+    "IsOverdue": false
+  },
+  {
+    "Id": "48e0bd55-1b34-4bb8-a686-b087c1dce775",
+    "Title": "собака",
+    "Description": "выгулть собаку",
+    "Priority": 2,
+    "DueDate": "2026-06-26T01:57:59",
+    "Status": 0,
+    "IsImportant": true,
+    "CreatedAt": "2026-06-24T01:58:58.4647336+05:00",
+    "IsOverdue": false
+  },
+  {
+    "Id": "ba4cf339-1a48-4568-b279-b05b406fdc2e",
+    "Title": "комната",
+    "Description": "пррбратьтся",
+    "Priority": 2,
+    "DueDate": "2026-06-26T01:57:59",
+    "Status": 1,
+    "IsImportant": false,
+    "CreatedAt": "2026-06-24T01:59:20.6946917+05:00",
+    "IsOverdue": false
+  }
+]

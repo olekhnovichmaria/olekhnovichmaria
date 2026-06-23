@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\TaskManager\TaskManager.Core\bin\Debug\TaskManager.Core.dll
+C:\Users\user\source\repos\TaskManager\TaskManager.Core\bin\Debug\TaskManager.Core.pdb
+C:\Users\user\source\repos\TaskManager\TaskManager.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\TaskManager\TaskManager.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\TaskManager\TaskManager.Core\obj\Debug\TaskManager.Core.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TaskManager\TaskManager.Core\obj\Debug\TaskManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TaskManager\TaskManager.Core\obj\Debug\TaskMana.7E897A24.Up2Date
+C:\Users\user\source\repos\TaskManager\TaskManager.Core\obj\Debug\TaskManager.Core.dll
+C:\Users\user\source\repos\TaskManager\TaskManager.Core\obj\Debug\TaskManager.Core.pdb
